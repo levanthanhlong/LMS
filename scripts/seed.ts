@@ -25,3 +25,5 @@ async function main() {
 }
 
 main();
+
+// npx script/seed.ts ->  to up the categories 
